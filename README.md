@@ -9,8 +9,6 @@
 
 支持 Cursor、Windsurf、Claude Code、Kilo 等 AI 编程助手
 
-[简体中文](README.md) | [English](README_EN.md)
-
 </div>
 
 ---
@@ -213,12 +211,6 @@
 
 ### Q: 如何确保团队成员都使用相同的规范？
 **A:** 将 Rules 配置文件（如 `.cursorrules` 或 `rules.md`）提交到代码仓库，团队成员克隆后自动生效。
-
----
-
-## 📄 许可证
-
-本项目采用 [MIT License](LICENSE) 开源协议，可自由使用、修改和分发。
 
 ---
 
